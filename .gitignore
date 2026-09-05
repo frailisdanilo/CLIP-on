@@ -5,7 +5,8 @@
 !.vscode/extensions.json   
 
 Celeba
-embeddings/*
+embeddings/openai_clip_vit_b32
+
 *.zip
 *.pdf
 *.pt
